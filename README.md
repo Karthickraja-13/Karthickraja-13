@@ -6,5 +6,6 @@
            ~ HTML/CSS & Javascript.
            
 - 📫 How to reach me ...
-
+- Mail I'd: skr130300@gmail.com
+- ![Linkedin](https://www.linkedin.com/in/karthickraja-s-3922351b8)
 
